@@ -168,7 +168,7 @@ The current project uses a local SQLite database containing demo company data.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DataInsightBot.git
+git clone https://github.com/soumya-prasad-1/DataInsightBot.git
 cd DataInsightBot
 ```
 
